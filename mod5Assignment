@@ -1,0 +1,19 @@
+Module 5: Handling events with JavaScript.
+
+Assignment
+Arrays:»
+Write JavaScript to display the  names of computer languages and display all of them in an alert box on click of a button. Use arrays to store the list ofcomputer programming languages.
+
+Objects:»
+Write  JavaScript  to  store  the  employee  object  information  (Employee  name, employee no, age and department) and display as Employee <name> is working in  <department>  department. Here  <name>  is  name  of  the  employee  and <department> is the stored employee's department.
+
+Functions:»
+Write a JavaScript function to find largest of 3 numbers and display it.
+
+Event handlers:»
+Write JavaScript to display an alert message "You have moved the mouse on the button" when the mouse is moved on a button.
+
+If condition:»
+Write  JavaScript  to  accept  a  name  in  prompt  and  validate  whether  name  is entered  or not. If the  name  is not entered  then  display a message  "Sorry, you have  not  entered  any name". If  the  name is  entered  by the  user  then  display "Hello <entered name>, welcome".  Here <entered name> is the name entered by the user.
+
+
