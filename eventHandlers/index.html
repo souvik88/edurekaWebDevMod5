@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Event handler</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css">
+</head>
+<body>
+    <h1>Event handler</h1>
+    <p>Write JavaScript to display an alert message "You have moved the mouse on the button" when the mouse is moved on a button.</p>
+    <button id="test" onmouseenter="mouseEnter()">Mouse Over</button>
+    <script>
+        function mouseEnter() {
+            document.getElementById("test");
+            alert("You have moved the mouse on the button");
+        }
+    </script>
+</body>
+</html>
